@@ -11,7 +11,7 @@ Challenge website. Anyway, here it is. This was some of the most fun I've had
 programming recently.
 
 .. _AI Challenge - Ants`: http://aichallenge.org
-.. _476th: http://aichallenge.org/profile.php?user=8479
-.. _tools: http://aichallenge.org/using_the_tools.php
+.. _476th: http://ants.aichallenge.org/profile.php?user=8479
+.. _tools: http://ants.aichallenge.org/using_the_tools.php
 
 
