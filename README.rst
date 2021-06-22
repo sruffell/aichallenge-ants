@@ -10,7 +10,7 @@ The code here will not run unless you also install the tools_ provided on the AI
 Challenge website. Anyway, here it is. This was some of the most fun I've had
 programming recently.
 
-.. _AI Challenge - Ants`: http://aichallenge.org
+.. _AI Challenge - Ants`: http://ants.aichallenge.org/
 .. _476th: http://ants.aichallenge.org/profile.php?user=8479
 .. _tools: http://ants.aichallenge.org/using_the_tools.php
 
